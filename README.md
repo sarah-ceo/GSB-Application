@@ -1,4 +1,4 @@
-# GSB_Application_FR
+# GSB Application
 This is a school project: a JAVA application allowing the sales reps of fictional pharmaceutical company "GSB" to keep track of and plan the visitations they make to doctors. 
 
 Details of the project explained in [this file](PAPPE2.pdf) (in French). 
